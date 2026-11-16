@@ -4,7 +4,7 @@ I'm a curious mind with an interest in technology, cybersecurity, and understand
 
 I enjoy exploring Linux, experimenting with systems, learning about networks, and getting my hands dirty with code. Always curious, always learning, and never afraid to break something just to understand how it works.
 
-🧠 A Little About Me
+<u>🧠 A Little About Me</u>
 
 - 🎓 Computer Engineering graduate.
 - 🔐 Passionate about cybersecurity and technology.
@@ -13,7 +13,7 @@ I enjoy exploring Linux, experimenting with systems, learning about networks, an
 - 📚 Prefer learning through books, experimentation and hands-on projects.
 - 🌍 Always interested in different cultures, languages and perspectives.
 
-🏀Outside Technology
+<u>🏀Outside Technology</u>
 
 I'm not always behind a screen.
 
@@ -23,7 +23,7 @@ I'm not always behind a screen.
 - 📖 Reading and continuous learning
 - 🌏 Exploring languages and different cultures
 
-⚡ Things I Enjoy
+<u>⚡ Things I Enjoy</u>
 
 Linux, open-source, computers, networking, problem-solving, science, technology, and discovering how things work.
 
