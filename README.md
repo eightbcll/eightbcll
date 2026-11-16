@@ -18,7 +18,6 @@ I enjoy exploring Linux, experimenting with systems, learning about networks, an
 I'm not always behind a screen.
 
 - 🏊 Swimming
-- 🎾 Tennis
 - 🏀 Basketball
 - 🏋️ Gym and fitness
 - 📖 Reading and continuous learning
@@ -32,4 +31,3 @@ Linux, open-source, computers, networking, problem-solving, science, technology,
 
 Currently focused on growing my knowledge in cybersecurity, becoming a better programmer, and understanding computers from the hardware level to the applications running on them.
 
-Still learning. Still experimenting. Still figuring things out.
