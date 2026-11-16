@@ -1,16 +1,35 @@
-## Hi there 👋
+Hey, I'm Lewis 
 
-<!--
-**eightbcll/eightbcll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a curious mind with an interest in technology, cybersecurity, and understanding how things work beneath the surface.
 
-Here are some ideas to get you started:
+I enjoy exploring Linux, experimenting with systems, learning about networks, and getting my hands dirty with code. Always curious, always learning, and never afraid to break something just to understand how it works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 A Little About Me
+
+- 🎓 Computer Engineering graduate.
+- 🔐 Passionate about cybersecurity and technology.
+- 🐧 Linux enthusiast.
+- 💻 Currently exploring C, Python, networking and system administration.
+- 📚 Prefer learning through books, experimentation and hands-on projects.
+- 🌍 Always interested in different cultures, languages and perspectives.
+
+🏀Outside Technology
+
+I'm not always behind a screen.
+
+- 🏊 Swimming
+- 🎾 Tennis
+- 🏀 Basketball
+- 🏋️ Gym and fitness
+- 📖 Reading and continuous learning
+- 🌏 Exploring languages and different cultures
+
+⚡ Things I Enjoy
+
+Linux, open-source, computers, networking, problem-solving, science, technology, and discovering how things work.
+
+🎯 The Journey
+
+Currently focused on growing my knowledge in cybersecurity, becoming a better programmer, and understanding computers from the hardware level to the applications running on them.
+
+Still learning. Still experimenting. Still figuring things out.
