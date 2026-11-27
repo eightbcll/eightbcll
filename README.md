@@ -16,7 +16,7 @@ I enjoy exploring Linux, experimenting with systems, learning about networks, an
 - Swimming
 - Basketball
 - Gym and fitness
-- Reading and continuous learning
+  
 
 
 
